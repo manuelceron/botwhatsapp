@@ -3,9 +3,9 @@ Este es un bot de WhatsApp que utiliza la librería "whatsapp-web.js" para conec
 
 Instalación
 Para instalar las dependencias necesarias, utiliza el siguiente comando en la terminal:
-´´´
+```
 npm install
-´´´
+```
 Uso
 Antes de poder utilizar el bot, debes crear un archivo ".env" en la raíz del proyecto y agregar las siguientes variables de entorno:
 OPENAI_API_KEY=
@@ -15,7 +15,7 @@ OPENAI_API_KEY es la clave API de OpenAI, que debes obtener registrándote en su
 
 Una vez que hayas configurado las variables de entorno, puedes iniciar el bot ejecutando el siguiente comando:
 
-´´´
+```
 npm start
-´´´
+```
 El bot escaneará el código QR que se muestra en la terminal y luego estará listo para recibir y enviar mensajes.
