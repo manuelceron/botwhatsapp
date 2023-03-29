@@ -2,6 +2,10 @@
 Este es un bot de WhatsApp que utiliza la librería "whatsapp-web.js" para conectarse a WhatsApp Web y enviar mensajes automatizados.<br> También utiliza la API de OpenAI para generar respuestas inteligentes a los mensajes recibidos.
 
 ## Instalación
+Clonar repositiorio git con el comando:
+```
+git clone https://github.com/manuelceron/botwhatsapp
+```
 Para instalar las dependencias necesarias, utiliza el siguiente comando en la terminal:
 ```
 npm install
